@@ -10,5 +10,8 @@ Este repositório é destinado para os estudos da teoria da linguagem de program
 
 ## Materiais
 
+- conceitos
+  - teoria dos grafos
+  - teoria dos autômatos
 - compiladores
-  - [Compiladores - Curso Completo](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W 'Compiladores - Curso Completo')
+  - [Compiladores - Curso Completo](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W 'Compiladores - Curso Completo'): Professor Isidro
