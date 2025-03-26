@@ -10,8 +10,12 @@ Este repositório é destinado para os estudos da teoria da linguagem de program
 
 ## Materiais
 
-- conceitos
+- matemática discreta
+  - livros
+    - Discrete Mathematics and Its Applications - Kenneth H. Rosen
+    - Discrete Mathematics with Applications - Susanna S. Epp
   - teoria dos grafos
   - teoria dos autômatos
+    - []
 - compiladores
   - [Compiladores - Curso Completo](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W 'Compiladores - Curso Completo'): Professor Isidro
